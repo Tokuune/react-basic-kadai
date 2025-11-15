@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ProfileCard } from './ProfileCard';
+import ProfileCard from './ProfileCard';
 import './App.css'
 
 // 社員のプロフィール情報
